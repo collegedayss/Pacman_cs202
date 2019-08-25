@@ -63,19 +63,21 @@ You may enter 'w' to go up, 's' to go down
 s
 
  Usersmoving down
-     
+ 
        o       H(10)   G       o
        U(0)    o       o       o
        o       o       o       o
        o       o       o       o
 Helper move down  Robot Energy Level:10     
+
        o       o       G       o
        U(0)   H(9)     o       o
        o       o       o       o
        o       o       o       o
 Your Helper robots energy decreased by 2
 Evil Dude Moves UP
- Robot Energy Level:13     
+ Robot Energy Level:13    
+ 
        E(12)   o       G       o
        U(0)  H(7)      o       o
        o       o       o       o
