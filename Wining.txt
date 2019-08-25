@@ -1,0 +1,41 @@
+Abridged Pacman Game. 
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left 
+ 
+     
+       U(5)        o       E(10)       o
+       o       G       H(10)       o
+       o       o       o       o
+       o       o       o       o
+Please Enter the Direction You want your Robot to move
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left  
+d
+
+ Users moving right
+     
+       o       U(4)        E(10)       o
+       o       G       H(10)       o
+       o       o       o       o
+       o       o       o       o
+Helper Moves UP
+ Robot Energy Level:10  Warning! Helper Just Bumped into something
+     
+       o       U(4)        E(10)       o
+       o       G       H(9)       o
+       o       o       o       o
+       o       o       o       o
+Your Energy Just decreased by two because evil
+     
+       o       U(2)        E(12)       o
+       o       G       H(9)       o
+       o       o       o       o
+       o       o       o       o
+ Name: USER ROBOT, row = 0, column = 1, energy: 2
+Please Enter the Direction You want your Robot to move
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left  
+s
+
+ Usersmoving down
+GAME OVER!, YOU WIN!!!!!!!!!!!

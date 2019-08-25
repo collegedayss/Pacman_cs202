@@ -1,0 +1,85 @@
+Abridged Pacman Game. 
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left 
+ 
+     
+       U(5)        E(10)       o       o
+       o       o       G       o
+       o       H(10)       o       o
+       o       o       o       o
+Please Enter the Direction You want your Robot to move
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left  
+s
+
+ Usersmoving down
+     
+       o       E(10)       o       o
+       U(4)        o       G       o
+       o       H(10)       o       o
+       o       o       o       o
+Helper Moves UP
+ Robot Energy Level:10     
+       o       E(10)       o       o
+       U(4)        H(10)       G       o
+       o       o       o       o
+       o       o       o       o
+Your Helper robots energy decreased by 2
+     
+       o       E(12)       o       o
+       U(4)        H(8)       G       o
+       o       o       o       o
+       o       o       o       o
+ Name: USER ROBOT, row = 1, column = 0, energy: 4
+Please Enter the Direction You want your Robot to move
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left  
+w
+
+ Users moving up
+     
+       U(3)        E(12)       o       o
+       o       H(8)       G       o
+       o       o       o       o
+       o       o       o       o
+Helper Moves UP
+ Robot Energy Level:8  Warning! Helper Just Bumped into something
+     
+       U(3)        E(12)       o       o
+       o       H(7)       G       o
+       o       o       o       o
+       o       o       o       o
+Your Energy Just decreased by two because evil
+     
+       U(1)        E(14)       o       o
+       o       H(7)       G       o
+       o       o       o       o
+       o       o       o       o
+ Name: USER ROBOT, row = 0, column = 0, energy: 1
+Please Enter the Direction You want your Robot to move
+You may enter 'w' to go up, 's' to go down 
+'d' to go right and 'a' to go left  
+d
+
+ Users moving right
+  Warning! User Bumped Robot
+     
+       U(1)        E(14)       o       o
+       o       H(7)       G       o
+       o       o       o       o
+       o       o       o       o
+Helper Moves UP
+ Robot Energy Level:7  Warning! Helper Just Bumped into something
+     
+       U(1)        E(14)       o       o
+       o       H(6)       G       o
+       o       o       o       o
+       o       o       o       o
+Your Energy Just decreased by two because evil
+     
+       U(-1)        E(16)       o       o
+       o       H(6)       G       o
+       o       o       o       o
+       o       o       o       o
+ Name: USER ROBOT, row = 0, column = 0, energy: -1
+warning: Robot runs out of energy. Can't move! Game Over!
